@@ -8,6 +8,7 @@ Programming Team Practice Area
 4. Create a pull request with an appropriate message.
 5. Profit!
 
+
 robot NO
 
 
@@ -36,3 +37,19 @@ robot NO
 Aidan Rea
 aidanrea@csdok.org
 Garrysmod
+=======
+
+
+Name: Xavier Harris
+Email: xavierharris@csdok.org
+Favorite Book: Ender's Game Series
+Favorite Video Game: Battlefield 1
+Favorite Television Show: The Office
+=======
+
+Devi DeYoung
+devideyoung@csdok.org
+Glee
+The Selection
+I know it's cheesy but Minecraft
+
