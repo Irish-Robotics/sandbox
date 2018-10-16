@@ -7,3 +7,9 @@ Programming Team Practice Area
 3. Commit your note
 4. Create a pull request with an appropriate message.
 5. Profit!
+
+Name: Xavier Harris
+Email: xavierharris@csdok.org
+Favorite Book: Ender's Game Series
+Favorite Video Game: Battlefield 1
+Favorite Television Show: The Office
