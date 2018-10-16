@@ -19,31 +19,6 @@ Voltron: Legendary Defender
 =======
 
 
-robot NO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Aidan Rea
 aidanrea@csdok.org
 Garrysmod
