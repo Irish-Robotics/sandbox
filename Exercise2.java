@@ -32,8 +32,7 @@ public class Exercise2 {
         1. Get a user's name
         2. Get an integer (intOne)
         3. Get another integer (intTwo)
-        4. Calculate the sum, difference, product, and quotient. Store them in 
-            variabled.
+        4. Calculate the sum, difference, product, and quotient. Store them a svariables.
         5. Output the user's name
         6. Output the sum of the numbers
         7. Output the difference of the numbers
