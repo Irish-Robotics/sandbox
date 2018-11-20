@@ -25,6 +25,12 @@ public class Exercise1 {
     //Explain what this line does (then delete this comment).
     public static void main(String[] args) 
     {
+        String name = "Katie";
+        int age = 16;
+
+
+        System.out.println(name);
+        System.out.println(age);
         // TODO code application logic here
         // Declare a variable to hold your name
         // Declare a variable to hold your age

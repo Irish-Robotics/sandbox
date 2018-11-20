@@ -1,5 +1,5 @@
 /*************************************
-* Programmer: Your Name
+* Programmer:Katie Guthrie
 * Exercise2: IPO
 * Irish Robotics
 * Fall 2018
@@ -11,13 +11,13 @@
 * 
 **************************************/
 
-
+import  java.util.Scanner 
 /**
  *
  * @author Your Name
  */
 
-    //Explain what this line does (then delete this comment).
+    //This makes the code public and names it
 public class Exercise2 {
 
     //Explain what this line does (then delete this comment).
@@ -42,7 +42,26 @@ public class Exercise2 {
         */
 
         // Make sure to explaine everything about your code.
-        
+         //creating int to store user input
+         String userName = "";
+         int intOne = 0;
+
+
+         //creating scanner object
+         Scanner keyboard = new Scanner(System.in);
+ 
+         //asking user to enter name
+         System.out.print("Enter your name: ");
+         //setting input equal to the userName
+         userName = keyboard.nextLine();
+ 
+         System.out.print("Enter a number: ")
+         intOne= keyboard.nextInt()
+         //outputs all inputs
+         System.out.println("Your name is " + userName);
+         System.out.println("Your first number is " + intOne);
+
+
         
     }
     
