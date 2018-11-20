@@ -22,17 +22,16 @@ package exercise1;
     //Explain what this line does (then delete this comment).
 public class Exercise1 {
 
-    //Explain what this line does (then delete this comment).
+    //This line declares a variable to hold my name.
     public static void main(String[] args) 
     {
-        // TODO code application logic here
-        // Declare a variable to hold your name
-        // Declare a variable to hold your age
-        // Output your name
-        // Output your age
-        // Make sure to explaine everything about your code.
+        String name = "Devi";
+        int age = 14; 
+        System.out.println(name); 
+        System.out.println(age);
         
         
+ 
     }
     
 }

@@ -1,9 +1,9 @@
 /*************************************
-* Programmer: Your Name
+* Programmer: Devi DeYoung
 * Exercise2: IPO
 * Irish Robotics
 * Fall 2018
-* Date completed: 11/??/18
+* Date completed: 11/21/18
 **************************************
 * Program Explanation
 * 
@@ -11,18 +11,19 @@
 * 
 **************************************/
 
+import  java.util.Scanner 
 
 /**
  *
- * @author Your Name
+ * @author Devi DeYoung
  */
 
-    //Explain what this line does (then delete this comment).
+    //This line makes the code public and names it Exercise 2.
 public class Exercise2 {
 
     //Explain what this line does (then delete this comment).
     public static void main(String[] args) 
-    {
+    
         /* Review the JavaBook Wiki page at
 
         https://github.com/reateach/JavaBook/wiki/Strings
@@ -43,7 +44,27 @@ public class Exercise2 {
 
         // Make sure to explaine everything about your code.
         
+        //creating int to store user input
+       int userNumber=""
+        String userInput=""
+
+        //creating scanner object
+        Scanner keyboard= new Scanner(System.in);
         
+        //Asks user to enter their name
+        System.out.print(Enter your name:"");
+        userInput=keyboard.nextLine();
+
+        //asking user to enter number
+        System.out.print(Enter a number:"");
+
+        //setting input equal to the user number
+        userNumber=keyboard.nextInt();
+
+        //outputs the userNumber and userInput
+        System.out.println(Your name is: "" + userInput);
+        System.out.println(Your number is ""+ userNumber)
     }
+
     
 }
